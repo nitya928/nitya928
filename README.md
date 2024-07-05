@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning android game development
 - 📫 Contact me through email nityanandani756@gmail.com
-- 😄 Pronouns: Nitu
 - ⚡ Fun fact: I like to watch extreme level horror movies
 
 <!---
